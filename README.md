@@ -1,2 +1,2 @@
-# intellipath_project
-For Assignment
+# INTELLIPATH
+This Assignment is part of Certification.
